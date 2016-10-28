@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\gameuser\desktop\college work\main project\midnight rush\main.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\gameuser\desktop\college work\main project\midnight rush\main.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\gameuser\desktop\college work\main project\midnight rush\main.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\gameuser\desktop\college work\main project\midnight rush\main.cpp(69): warning C4305: 'argument': truncation from 'double' to 'float'
+  Midnight Rush.vcxproj -> C:\Users\gameuser\Desktop\College Work\MAIN PROJECT\Midnight Rush\x64\Debug\Midnight Rush.exe
+  Midnight Rush.vcxproj -> C:\Users\gameuser\Desktop\College Work\MAIN PROJECT\Midnight Rush\x64\Debug\Midnight Rush.pdb (Partial PDB)

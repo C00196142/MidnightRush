@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Background.cpp
+c:\users\gameuser\desktop\project\midnightrush\background\midnight rush\background.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Midnight Rush.vcxproj -> C:\Users\gameuser\Desktop\Project\MidnightRush\Background\x64\Debug\Midnight Rush.exe
+  Midnight Rush.vcxproj -> C:\Users\gameuser\Desktop\Project\MidnightRush\Background\x64\Debug\Midnight Rush.pdb (Partial PDB)
